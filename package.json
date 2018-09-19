@@ -1,0 +1,32 @@
+{
+  "name": "sms-postgresql-websocket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tgiachett/sms-postgresql-websocket.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tgiachett/sms-postgresql-websocket/issues"
+  },
+  "homepage": "https://github.com/tgiachett/sms-postgresql-websocket#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.0.0",
+    "eslint": "^5.6.0",
+    "express": "^4.16.3",
+    "express-sequelize": "0.0.4",
+    "mysql2": "^1.6.1",
+    "pg": "^7.4.3",
+    "sequelize": "^4.38.1",
+    "ws": "^6.0.0",
+    "zang-node": "0.0.1"
+  }
+}
